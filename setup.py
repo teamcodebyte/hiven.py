@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hiven.py",
-    version="1.0.0",
+    version="0.0.1",
     author="teamcodebyte",
     author_email="trustedmercury@gmail.com",
     description="An opensource API wrapper for the Hiven API!",
